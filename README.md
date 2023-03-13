@@ -4,7 +4,7 @@ Click [here](https://medium.com/analytics-vidhya/how-to-install-opencv-for-visua
 
 ## Part 1: Installing OpenCV
 
-Follow up until Step 8 in the above article.
+Follow up until the end of "Part 1" in the above article.
 
 The end goal should be to run the following command on the terminal and see an output.
 
